@@ -1,1 +1,1 @@
-# project-recipes
+This is a beginners project where I am trying to make html structure for a recipe-related website
